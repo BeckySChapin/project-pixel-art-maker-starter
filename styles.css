@@ -1,9 +1,11 @@
 body {
     text-align: center;
+    font-family: Noto Sans;
 }
 
 h1 {
-    font-family: Monoton;
+    /* font-family: Monoton; */
+    font-family: Inconsolata;
     font-size: 70px;
     margin: 0.2em;
 }
